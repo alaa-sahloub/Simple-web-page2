@@ -1,0 +1,181 @@
+*{
+	margin:0;
+	padding:0;
+	box-sizing:border-box;
+	font-family:Tohama,Geneva,sans-serf;
+	line-height:25px;
+}
+.dva ,.dvb,.dvc{
+	width:380px;	
+	float:left;
+	
+}
+.dva ,.dvb{
+	border-right: 1px solid #DBDBDB;
+}
+.firdv{
+	margin-left:100px;
+	margin-right:100px;
+	margin-top:74px;
+	margin-bottom:88px;
+	overflow:hidden;
+	line-height:25px;
+}
+.oneth{
+	padding-right:66px;
+}
+.twoth{
+	padding-left:56px;
+	padding-right:29px;
+}
+.threeth{
+	padding-left:56px;
+}
+.podvo{
+	font-size:24px;
+	color:#53A6DD;
+	padding-bottom: 32px;
+	padding-right:58px;
+
+}
+.ptdvt{
+	
+	color:#b3b2b7;
+	padding-bottom: 35px;
+	padding-right: 12px;
+}
+.more{
+	background-color:#5385C1;
+	border:none;
+	padding:10px 20px;
+	color:white;
+	font-size:16px;
+	clean:both;
+}
+.secdv{
+	margin: auto;
+	padding:60px 60px;
+	height:555px;
+	background-color:#5385C1;
+	color:white;
+	height:678px;
+}
+.dvh{
+	text-align: center;
+    font-size: 34px;
+    margin-left: 505px;
+	margin-top:104px;
+	margin-bottom:25px;
+}
+.psent{
+	padding-bottom: 20px;
+    margin-left: 527px;
+	color:#A3B8D2;
+}
+.imgdv{
+	float:left;
+	width:20%;
+	padding: 30px 20px;
+	border:1px solid #7EA4D1;
+	margin-left:4%;
+	text-align:center;
+
+}
+.imgdv img{
+	border-radius:50%;
+}
+.imgspa{
+	display:block;
+	color:white;
+	font-size:27px;
+	padding-bottom:7px;
+}
+.famil{
+	color:#A3B8D2;
+	font-size:18px;
+}
+.dvh{
+	width:20%;
+	
+}
+.dvthpo{
+	color:#79A6DD;
+	font-size:30px;
+	text-align:center;
+	padding-top:105px;
+	padding-bottom:29px;
+}
+.dvthpt{
+	color:#BFC6DA;
+	font-size:15px;
+	text-align:center;
+	padding-bottom:67px;
+}
+.thirdv{
+	height:900px;
+}
+.ooimg img{
+	float:left;
+	margin-bottom:36px;
+}
+.imga{
+	margin-left:120px;
+	margin-right:68px;
+}
+.imgb{
+	margin-right:120px;
+}
+.textr ,.textl{
+	padding-top:20px;
+}
+.textr{
+	display:inline;
+	float:left;
+	width:517px;
+	margin-left:120px;
+	
+}
+.textl{
+	display:inline;
+	float:left;
+	width:517px;
+	margin-left:73px;
+	margin-right:120px;
+	
+}
+.comone,.comtwo{
+	color:#79A6DD;
+	font-size:25px;
+	display:block;
+	padding-bottom:29px;
+}
+.comthree, .comfour{
+	color:#b3b2b7;
+}
+.morbtt{
+	margin-top:35px;
+	display:block;
+	background-color:#5385C1;
+	border:none;
+	padding:10px 20px;
+	color:white;
+	font-size:16px;
+	margin-bottom:90px;
+}
+.sec{
+	height:90px;
+	border-top:1px solid black;
+}
+.cp{
+	color:#b9b8bd;
+}
+.cop{
+	
+bottom:0px;
+padding:60px 90px;
+margin-top:20px;
+}
+.fonaw{
+	color:#b9b8bd;
+	direction:rtl;
+}
